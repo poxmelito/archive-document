@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/Manifest_Mel.json",
+  "@type": "sc:Manifest",
+  "label": "Manifest_Mel",
+  "sequences": [
+    {
+      "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-25",
+          "@type": "sc:Canvas",
+          "label": "Page 25",
+          "height": 1600,
+          "width": 1200,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/annotation/page-25",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/page-25.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1600,
+                "width": 1200
+              },
+              "on": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-25"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-26",
+          "@type": "sc:Canvas",
+          "label": "Page 26",
+          "height": 1600,
+          "width": 1200,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/annotation/page-26",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/page-26.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1600,
+                "width": 1200
+              },
+              "on": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-26"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-27",
+          "@type": "sc:Canvas",
+          "label": "Page 27",
+          "height": 1600,
+          "width": 1200,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/annotation/page-27",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/page-27.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1600,
+                "width": 1200
+              },
+              "on": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-27"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-28",
+          "@type": "sc:Canvas",
+          "label": "Page 28",
+          "height": 1600,
+          "width": 1200,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/annotation/page-28",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/page-28.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1600,
+                "width": 1200
+              },
+              "on": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-28"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-29",
+          "@type": "sc:Canvas",
+          "label": "Page 29",
+          "height": 1600,
+          "width": 1200,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/annotation/page-29",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/page-29.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1600,
+                "width": 1200
+              },
+              "on": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-29"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-30",
+          "@type": "sc:Canvas",
+          "label": "Page 30",
+          "height": 1600,
+          "width": 1200,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/annotation/page-30",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/poxmelito/archive-document/main/page-30.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1600,
+                "width": 1200
+              },
+              "on": "https://raw.githubusercontent.com/poxmelito/archive-document/main/canvas/page-30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
